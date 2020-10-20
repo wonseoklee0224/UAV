@@ -13,7 +13,7 @@ from _collections import deque
 import numpy as np
 import envirionment
 
-
+#power2
 gridSize = [200, 200, 200]
 max_num_user = 30
 number_user = 30
