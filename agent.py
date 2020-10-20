@@ -9,7 +9,7 @@ from keras.models import Sequential
 from keras.layers import Dense
 from _collections import deque
 
-
+#power3
 import numpy as np
 import envirionment
 
